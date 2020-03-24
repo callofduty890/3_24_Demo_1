@@ -37,6 +37,7 @@ namespace ConsoleApp4
         {
             Console.WriteLine(x + "/" + y + "=" + (x / y));
         }
+
     }
 
 
